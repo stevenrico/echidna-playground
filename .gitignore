@@ -16,5 +16,8 @@ out/
 # Docs
 docs/
 
+# Crytic export 
+crytic-export/
+
 # Environment files
 .env
