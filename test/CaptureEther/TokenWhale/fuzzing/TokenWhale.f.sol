@@ -8,7 +8,7 @@ import { TokenWhale } from "contracts/CaptureEther/TokenWhale.sol";
  *
  * @dev Run in the terminal:
  *
- * `echidna test/CaptureEther/TokenWhale/fuzzing/TokenWhale.f.sol --config echidna.yaml --contract FuzzTokenWhale`
+ * `echidna test/CaptureEther/TokenWhale/fuzzing/TokenWhale.f.sol --config echidna.config.yaml --contract FuzzTokenWhale`
  */
 
 /* solhint-disable func-name-mixedcase */
